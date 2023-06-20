@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App]
+This App on only runs on localhost
 
 ## Available Scripts
 
